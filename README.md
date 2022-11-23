@@ -1,5 +1,5 @@
 <pre>
-다운 주소 : <A href = "URL" target = "https://www.epost.go.kr/search/zipcode/areacdAddressDown.jsp">우편번호 내려받기 epost.go.kr</A>
+다운 주소 : https://www.epost.go.kr/search/zipcode/areacdAddressDown.jsp
 
 사용법 : 
   1. py파일의 db주소와 각자의 db에 맞게 세팅을 해줍니다.
