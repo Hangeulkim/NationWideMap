@@ -93,7 +93,7 @@ def readFolder():
     global header
     global inputLists
     
-    folderPath="./zipcode"
+    folderPath="./zipcode_DB"
     allList = os.listdir(folderPath)
     fileList = [file for file in allList if file.endswith(".txt")]
     for file in fileList:
